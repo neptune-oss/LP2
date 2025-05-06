@@ -17,7 +17,7 @@ curl https://raw.githubusercontent.com/nirz306/Pict_Lab/main/TE/Sem2/LP2/4.%20As
 
 Assignment 5
 curl https://raw.githubusercontent.com/Ayush-Bulbule/PICT-Lab/main/TE_Sem_II/LP_2/05_Chatbot/01_chatbot.cpp -o 01_chatbot.cpp
-curl https://raw.githubusercontent.com/nirz306/Pict_Lab/main/TE/Sem2/LP2/5.Assignment%20Chatbot/Elementary%20Chatbot.py -o Elementary_Chatbot.py
+curl https://raw.githubusercontent.com/tirthraj07/AI-CC-Lab/main/Assignment%2005/chatbot.py -o chatbot.py
 
 Assignment 6
 curl https://raw.githubusercontent.com/shxntanu/TE-Lab-Assignments/LP2/06-Expert-System/expert-system.py -o expert-system.py
