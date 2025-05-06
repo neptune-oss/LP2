@@ -1,1 +1,20 @@
+Assignment 1
+curl https://raw.githubusercontent.com/shxntanu/TE-Lab-Assignments/LP2/01-Graph/graph.cpp -o graph.cpp
+
+Assignment 2
+curl https://raw.githubusercontent.com/AbhinandanPatil02/TE_LP2/main/Assignment2_A_star.cpp -o Assignment2_A_star.cpp
+
+Assignment 3
+curl https://raw.githubusercontent.com/Ayush-Bulbule/PICT-Lab/main/TE_Sem_II/LP_2/03_GreedySearch/01_PrimsAlgorthm.cpp -o 01_PrimsAlgorthm.cpp
+curl https://raw.githubusercontent.com/Ayush-Bulbule/PICT-Lab/main/TE_Sem_II/LP_2/03_GreedySearch/02_Dijkstras%20.cpp -o 02_Dijkstras.cpp
+
+Assignment 4
+curl https://raw.githubusercontent.com/shxntanu/TE-Lab-Assignments/LP2/04-CSP/n-queens.cpp -o n-queens.cpp
+
+Assignment 5
+curl https://raw.githubusercontent.com/Ayush-Bulbule/PICT-Lab/main/TE_Sem_II/LP_2/05_Chatbot/01_chatbot.cpp -o 01_chatbot.cpp
+
+Assignment 6
+curl https://raw.githubusercontent.com/shxntanu/TE-Lab-Assignments/LP2/06-Expert-System/expert-system.py -o expert-system.py
+
 
