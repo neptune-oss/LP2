@@ -3,16 +3,21 @@ curl https://raw.githubusercontent.com/shxntanu/TE-Lab-Assignments/LP2/01-Graph/
 
 Assignment 2
 curl https://raw.githubusercontent.com/AbhinandanPatil02/TE_LP2/main/Assignment2_A_star.cpp -o Assignment2_A_star.cpp
+curl https://raw.githubusercontent.com/nirz306/Pict_Lab/main/TE/Sem2/LP2/2.Assignment%20A*/8%20Puzzle.cpp -o 8_Puzzle.cpp
 
 Assignment 3
 curl https://raw.githubusercontent.com/Ayush-Bulbule/PICT-Lab/main/TE_Sem_II/LP_2/03_GreedySearch/01_PrimsAlgorthm.cpp -o 01_PrimsAlgorthm.cpp
 curl https://raw.githubusercontent.com/Ayush-Bulbule/PICT-Lab/main/TE_Sem_II/LP_2/03_GreedySearch/02_Dijkstras%20.cpp -o 02_Dijkstras.cpp
+curl https://raw.githubusercontent.com/nirz306/Pict_Lab/main/TE/Sem2/LP2/3.Assignment%20Greedy%20Algorithm/Dijkstra's%20Algorithm.cpp -o Dijkstra's_Algorithm.cpp
+curl https://raw.githubusercontent.com/nirz306/Pict_Lab/main/TE/Sem2/LP2/3.Assignment%20Greedy%20Algorithm/Prims_Algorithm.cpp -o Prims_Algorithm.cpp
 
 Assignment 4
 curl https://raw.githubusercontent.com/shxntanu/TE-Lab-Assignments/LP2/04-CSP/n-queens.cpp -o n-queens.cpp
+curl https://raw.githubusercontent.com/nirz306/Pict_Lab/main/TE/Sem2/LP2/4.%20Assignment%20Bactracking%2BBranchnBound/N_Queen.cpp -o N_Queen.cpp
 
 Assignment 5
 curl https://raw.githubusercontent.com/Ayush-Bulbule/PICT-Lab/main/TE_Sem_II/LP_2/05_Chatbot/01_chatbot.cpp -o 01_chatbot.cpp
+curl https://raw.githubusercontent.com/nirz306/Pict_Lab/main/TE/Sem2/LP2/5.Assignment%20Chatbot/Elementary%20Chatbot.py -o Elementary_Chatbot.py
 
 Assignment 6
 curl https://raw.githubusercontent.com/shxntanu/TE-Lab-Assignments/LP2/06-Expert-System/expert-system.py -o expert-system.py
